@@ -1,4 +1,4 @@
-#EmPyre
+# EmPyre
 
 EmPyre is a pure Python post-exploitation agent built on cryptologically-secure communications and a flexible architecture. It is based heavily on the controller and communication structure of Empire.
 
@@ -45,5 +45,4 @@ The process is as follows:
 
 10. client posts HMAC(AES(KEYn, tasking)) to /response.uri
 
-EmPyre Tracker:
-https://trello.com/b/NASrG4IW/empyre
+[EmPyre Tracker](https://trello.com/b/NASrG4IW/empyre)
